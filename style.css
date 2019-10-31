@@ -11,6 +11,10 @@ li {
   display: inline;
 }
 
+nav {
+  top: 0;
+}
+
 #nav-right {
   float: right;
 }
