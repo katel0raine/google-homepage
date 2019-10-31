@@ -1,0 +1,24 @@
+nav, footer {
+  position: absolute;
+  width: 100%;
+}
+
+ul {
+  display: inline-block;
+}
+
+li {
+  display: inline;
+}
+
+#nav-right {
+  float: right;
+}
+
+footer {
+  bottom: 0;
+}
+
+#footer-right {
+  float: right;
+}
