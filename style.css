@@ -22,3 +22,9 @@ footer {
 #footer-right {
   float: right;
 }
+
+main {
+  display: block;
+  margin: 100px auto;
+  text-align: center;
+}
