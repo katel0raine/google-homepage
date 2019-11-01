@@ -44,6 +44,10 @@ input[type="text"] {
   width: 500px;
 }
 
+input[type="text"]:hover {
+  box-shadow: 0 0 10px 1px #dfe1e5;
+}
+
 input[type="submit"] {
   background-color: #f8f8f8;
   border: 1px solid #f2f2f2;
@@ -51,6 +55,11 @@ input[type="submit"] {
   color: #222;
   font-family: Arial;
   font-size: 14px;
-  margin: 10px;
+  margin: 10px 5px;
   padding: 10px;
+}
+
+input[type="submit"]:hover {
+  border: 1px solid #c6c6c6;
+  border-radius: 4px;
 }
